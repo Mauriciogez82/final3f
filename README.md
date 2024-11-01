@@ -12,3 +12,8 @@ En este proyecto se desarrolla un CRUD con LOGIN usando una API.
 3. Desde la carpeta del proyecto, abrir una terminal y ejecutar el archivo que crea la base de datos
    ```bash
     php crear_base_datos.php
+
+4. En una direccion similar a: http://localhost/final3f/login/ podrás ver
+
+   ![imagen inicioSesion](img/inicioSesion.jpeg)
+   
